@@ -1,4 +1,4 @@
 # WAV-header-reader
-Simple reader of WAV PCM file header
+Simple reader of WAV PCM file header <br/>
 Usage CLI WAVHread wav_filename
   
